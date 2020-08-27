@@ -1,0 +1,2 @@
+ODBC Driver from
+https://docs.microsoft.com/pt-br/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver15#download-for-windows
