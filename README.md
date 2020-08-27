@@ -1,1 +1,1 @@
-# python_connector_sqlserver
+# connector_sql_server
