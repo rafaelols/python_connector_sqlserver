@@ -1,0 +1,7 @@
+{
+  "server": "xxx.database.windows.net",
+  "database": "xxx",
+  "username": "xxx",
+  "password": "xxx",
+  "driver": "{ODBC Driver 17 for SQL Server}"
+}
