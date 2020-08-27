@@ -1,0 +1,1 @@
+# python_connector_sqlserver
