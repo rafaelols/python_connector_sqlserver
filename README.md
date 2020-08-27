@@ -1,6 +1,6 @@
 # connector_sql_server
 
-Python connector generator to Azure SQL Database using sqlalchemy
+Python connector generator to Azure SQL Database using sqlalchemy.
 
 Copy generic_access.txt to access.txt and put your access variables there.
 
